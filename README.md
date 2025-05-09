@@ -43,5 +43,5 @@ An intelligent transportation system designed to optimize routes, emergency resp
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/smart-cairo-transport.git
+   git clone https://github.com/mosreaty1/Smart-Cairo-Transportation-Optimizer.git
    cd smart-cairo-transport
